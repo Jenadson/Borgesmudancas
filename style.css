@@ -12,7 +12,7 @@
   --page-bg: #ffffff;
   --max-width: 1180px;
   --radius: 8px;
-  --shadow: 0 22px 60px rgba(29, 29, 27, 0.12);
+  --shadow: 0 24px 64px rgba(29, 29, 27, 0.2);
 }
 
 * {
