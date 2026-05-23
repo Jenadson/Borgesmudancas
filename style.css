@@ -261,7 +261,7 @@ h3 {
 }
 
 .hero-visual {
-  margin-top: 36px;
+  margin-top: 92px;
   padding: 28px;
   background:
     linear-gradient(135deg, rgba(0, 107, 75, 0.12), transparent 38%),
@@ -270,6 +270,12 @@ h3 {
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   overflow: hidden;
+}
+
+@media (min-width: 1500px) {
+  .hero-visual {
+    margin-top: 136px;
+  }
 }
 
 .hero-board {
