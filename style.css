@@ -261,8 +261,7 @@ h3 {
 }
 
 .hero-visual {
-  align-self: start;
-  transform: translateY(-18px);
+  margin-top: 42px;
   padding: 28px;
   background:
     linear-gradient(135deg, rgba(0, 107, 75, 0.12), transparent 38%),
@@ -614,7 +613,7 @@ details p {
   }
 
   .hero-visual {
-    transform: none;
+    margin-top: 0;
   }
 
   .trust-strip,
