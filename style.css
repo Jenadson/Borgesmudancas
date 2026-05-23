@@ -261,7 +261,7 @@ h3 {
 }
 
 .hero-visual {
-  margin-top: 42px;
+  margin-top: calc((0.78rem * 1.6) + 14px);
   padding: 28px;
   background:
     linear-gradient(135deg, rgba(0, 107, 75, 0.12), transparent 38%),
